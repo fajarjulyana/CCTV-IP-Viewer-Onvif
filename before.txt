@@ -1,0 +1,9 @@
+[Pra-Instalasi CCTV IP]
+1. Pastikan ffmpeg atau ffplay.exe tersedia.
+2. Simpan semua file berikut dalam satu folder:
+   - cctv.py
+   - cctv.ico
+   - ffplay.exe (jika di Windows)
+3. Jalankan: python cctv.py
+4. Untuk versi .exe, lanjutkan ke "Panduan Setelah Instalasi".
+

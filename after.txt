@@ -1,0 +1,7 @@
+[Panduan Pengguna CCTV IP]
+1. Klik ikon CCTV IP di Desktop.
+2. Tambahkan kamera RTSP baru.
+3. Klik "Buka Stream" untuk menonton video CCTV.
+4. Konfigurasi tersimpan otomatis.
+5. Untuk menutup video, tutup jendela ffplay.
+
